@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(171, 197, 246);
+    color: rgb(0, 0, 94);
+}
+main{
+    display: flex;
+}
+
+/*hr{
+    border: solid rgb(178, 175, 200);
+}*/
+h1{
+    border-bottom: solid rgb(178, 175, 200);
+}
+
+
+table, th, td{
+    border: 1px solid rgb(178, 175, 200);
+    border-collapse: collapse;
+    padding: 5px;
+}
+table{
+    text-align: center;
+    width: 150px;
+    margin-right: 5%;
+    height: fit-content;
+}
+a{
+    text-decoration: none;
+}
