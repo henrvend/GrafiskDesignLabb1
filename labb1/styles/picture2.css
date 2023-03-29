@@ -10,9 +10,6 @@ main{
     display: flex;
 }
 
-/*hr{
-    border: solid rgb(178, 175, 200);
-}*/
 h1{
     border-bottom: solid rgb(178, 175, 200);
 }
